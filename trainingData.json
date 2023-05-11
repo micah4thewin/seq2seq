@@ -1,0 +1,40 @@
+{
+  "qas": [
+    {
+      "question": "Hello, how are you?",
+      "answers": [
+        "I'm fine, thank you. How can I assist you today?"
+      ]
+    },
+    {
+      "question": "What's the weather like?",
+      "answers": [
+        "I'm sorry, I can't provide real-time weather information."
+      ]
+    },
+    {
+      "question": "Who are you?",
+      "answers": [
+        "I'm a chatbot trained to assist you."
+      ]
+    },
+    {
+      "question": "What can you do?",
+      "answers": [
+        "I can answer simple questions, guide you through information, and help you with your requests."
+      ]
+    },
+    {
+      "question": "Can you tell me a joke?",
+      "answers": [
+        "Sure, why don't scientists trust atoms? Because they make up everything!"
+      ]
+    },
+    {
+      "question": "Thank you for your help.",
+      "answers": [
+        "You're welcome! If you have any other questions, feel free to ask."
+      ]
+    }
+  ]
+}

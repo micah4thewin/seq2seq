@@ -1,0 +1,18 @@
+{
+  "name": "seq2seq",
+  "version": "1.0.0",
+  "description": "A sequence to sequence chatbot that I am developing using tensorflow.js",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micah",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/universal-sentence-encoder": "^1.3.3",
+    "@tensorflow/tfjs": "^4.5.0",
+    "@tensorflow/tfjs-node": "^4.5.0",
+    "lodash": "^4.17.21",
+    "natural": "^6.3.0"
+  }
+}
